@@ -1,10 +1,3 @@
-//
-// Created by Max Ivry on 11/20/22.
-//
-
-#ifndef MARIEGER_MIVRY_STARS_H
-#define MARIEGER_MIVRY_STARS_H
-
 
 #include "shape.h"
 
@@ -50,6 +43,3 @@ public:
     void draw() const override;
 
 };
-
-
-#endif //MARIEGER_MIVRY_STARS_H
