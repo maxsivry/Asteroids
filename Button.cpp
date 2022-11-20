@@ -1,6 +1,4 @@
-//
-// Created by mrfer on 11/15/2022.
-//
+
 #include "Button.h"
 #include "graphics.h"
 using namespace std;
