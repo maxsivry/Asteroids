@@ -1,9 +1,4 @@
-//
-// Created by mrfer on 11/15/2022.
-//
 
-#ifndef RUNNER_QUAD_H
-#define RUNNER_QUAD_H
 struct colors {
     double red;
     double green;
@@ -49,4 +44,3 @@ public:
 
     virtual void draw() const;
 };
-#endif //RUNNER_QUAD_H
