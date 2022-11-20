@@ -1,6 +1,4 @@
-//
-// Created by Max Ivry on 11/16/22.
-//
+
 #include <math.h>
 #include "shape.h"
 #include "graphics.h"
