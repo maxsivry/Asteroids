@@ -1,5 +1,3 @@
-#ifndef GRAPHICSEXAMPLES_CIRCLE_H
-#define GRAPHICSEXAMPLES_CIRCLE_H
 
 #include "shape.h"
 #include "spaceship.h"
@@ -56,5 +54,3 @@ public:
 
 
 };
-
-#endif //GRAPHICSEXAMPLES_CIRCLE_H
