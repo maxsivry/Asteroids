@@ -1,6 +1,4 @@
-//
-// Created by mrfer on 11/17/2022.
-//
+
 #include "laser.h"
 #include "circle.h"
 #include "rect.h"
