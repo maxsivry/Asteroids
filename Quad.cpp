@@ -1,6 +1,3 @@
-//
-// Created by mrfer on 11/15/2022.
-//
 
 #include "Quad.h"
 #include "graphics.h"
@@ -90,7 +87,6 @@ void Quad::resize(unsigned int width, unsigned int height) {
 }
 
 void Quad::draw() const {
-    // TODO: Implement
     glBegin(GL_QUADS);
     glColor3f(fill.red, fill.green, fill.blue);
 // glVertex2i takes a 2-D (x, y) coordinate
