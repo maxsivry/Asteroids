@@ -1,9 +1,3 @@
-//
-// Created by mrfer on 11/15/2022.
-//
-
-#ifndef RUNNER_BUTTON_H
-#define RUNNER_BUTTON_H
 
 #include "Quad.h"
 #include <string>
@@ -30,6 +24,3 @@ public:
     /* Change the color back when the user is not clicking/hovering */
     void release();
 };
-
-
-#endif //RUNNER_BUTTON_H
