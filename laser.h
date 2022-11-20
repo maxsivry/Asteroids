@@ -1,9 +1,4 @@
-//
-// Created by mrfer on 11/17/2022.
-//
 
-#ifndef MARIEGER_MIVRY_LASER_H
-#define MARIEGER_MIVRY_LASER_H
 #include "rect.h"
 #include "circle.h"
 class laser : public Rect {
@@ -17,4 +12,3 @@ public:
     int getXdir();
     int getYdir();
 };
-#endif //MARIEGER_MIVRY_LASER_H
