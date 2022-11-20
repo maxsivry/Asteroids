@@ -1,5 +1,3 @@
-#ifndef GRAPHICSEXAMPLES_RECT_H
-#define GRAPHICSEXAMPLES_RECT_H
 
 #include "shape.h"
 
@@ -67,6 +65,3 @@ public:
     void draw() const override;
 
 };
-
-
-#endif //GRAPHICSEXAMPLES_RECT_H
