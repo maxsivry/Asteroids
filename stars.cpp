@@ -1,6 +1,3 @@
-//
-// Created by Max Ivry on 11/20/22.
-//
 
 #include "stars.h"
 #include "graphics.h"
