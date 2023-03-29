@@ -3,7 +3,7 @@ This is a basic asteroids game written entirely in C++ using GLUT and Open GL fo
 I made this game with Matt Rieger. We used starter code provided by Lisa Dion.
 
 Note:
-I am a Mac user running Catalina, so the dimensions of multiplied by 2, but it may appear too big on your machine. 
+For Mac users running Catalina the dimensions are multiplied by 2, but it may appear too big on your machine. 
 To fix this, delete the *2 from width and height on each glViewport line in graphics.cpp display function.
 
 # How to Play 
