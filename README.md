@@ -1,5 +1,5 @@
 # Summary
-This is a basic asteroids game written entirely in C++ using GLUT and Open GL for grpahics. 
+This is a basic asteroids game written entirely in C++ using GLUT and Open GL for graphics. 
 I made this game with Matt Rieger. We used starter code provided by Lisa Dion.
 
 Note:
